@@ -2,8 +2,8 @@
   "banned": [
     "pike?(ys?|ies)",
     "(ph|f)agg?s?([e0aio]ts?|oted|otry)",
-    "nig($|g|\\s|s)",
-    "nigg[aeoi]s?",
+    "n[i!j1e](b|:b:|🅱️)+($|g|\\s|s)",
+    "n[i!j1e](b|:b:|🅱️)+[aeoi]s?",
     "(ph|f)[@a]gs?",
     "n[i!j1e]+gg?(rs?|ett?e?s?|lets?|ress?e?s?|r[a0oe]s?|[ie@ao0!]rs?|r[o0]ids?|ab[o0]s?|erest)(s| |$)",
     "j[!i]gg?[aer]+(boo?s?|b00?s?)",
