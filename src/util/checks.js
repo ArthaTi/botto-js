@@ -1,6 +1,7 @@
 const fs = require('fs')
 
 const admins = [
+  '366675056979476480',
   '165206792689680385', // mcl
   '166279914109009921', // blap
   '248933758898667521', // cailin
@@ -46,4 +47,7 @@ exports.isDirty = function (str) {
 
 exports.hasMention = function (txt) {
   return txt.indexOf('<@!313929951114035200>') > -1
+      || txt.indexOf('<@313929951114035200>') > -1
+      || txt.indexOf('<@!861610350159593492>') > -1
+      || txt.indexOf('<@861610350159593492>') > -1
 }
